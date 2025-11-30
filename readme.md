@@ -1,6 +1,5 @@
 # 🧠 90-Day Study Plan  
 ### Coding • AI/LLMs • Cybersecurity • Networking  
-*A structured roadmap inspired by “90 Days of Cybersecurity” style READMEs.*
 
 ---
 
@@ -190,17 +189,5 @@
 - 2–3 GitHub repos  
 - Documented tasks, lessons, and projects  
 - Ready to share in interviews or job applications  
-
----
-
-## 📌 Want a 180-Day / 6-Month Extended Plan?
-Ask and I’ll generate a follow-up roadmap that adds:
-
-- CCNA prep  
-- CompTIA Security+  
-- Cloud certs (AWS/Azure)  
-- More advanced AI projects  
-- SOC blue-team learning  
-- Pen-testing basics  
 
 ---
